@@ -59,7 +59,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"variableName": "test",
+								"variableName": "check_output",
 								"value": {
 									"value": "@item().table_id",
 									"type": "Expression"
@@ -77,8 +77,8 @@
 			}
 		},
 		"variables": {
-			"test": {
-				"type": "String"
+			"check_output": {
+				"type": "Integer"
 			}
 		},
 		"annotations": []
