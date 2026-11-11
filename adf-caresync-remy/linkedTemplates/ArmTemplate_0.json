@@ -1259,7 +1259,7 @@
 						}
 					},
 					{
-						"name": "Source to Silver Main adls_csv",
+						"name": "Source to Silver adls_csv",
 						"type": "ExecutePipeline",
 						"dependsOn": [],
 						"policy": {
@@ -1292,7 +1292,7 @@
 								]
 							},
 							{
-								"activity": "Source to Silver Main adls_csv",
+								"activity": "Source to Silver adls_csv",
 								"dependencyConditions": [
 									"Completed"
 								]
