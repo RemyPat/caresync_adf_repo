@@ -1,0 +1,12 @@
+{
+	"name": "adf-caresync-remy",
+	"properties": {
+		"globalParameters": {
+			"email_receipent": {
+				"type": "string",
+				"value": "iremypatrick@gmail.com"
+			}
+		}
+	},
+	"location": "uksouth"
+}
